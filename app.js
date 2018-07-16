@@ -13,10 +13,6 @@ const init = () => {
   client.login(settings.DISCORD);
 }
 
-bot.on('ready', () => {
-  bot.user.setGame('at Bye Bye Station')
-})
-
 function log(message) {
   console.log(`[${moment().format('YYYY-MM-DD HH:mm:ss')}] ${message}`);
 }
