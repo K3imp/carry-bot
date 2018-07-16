@@ -41,7 +41,13 @@ Rename the file settings.json.example to settings.json with the correct informat
 
 That's it, you're good to go! Run `npm start` and carrybot should come online.
 
-## 0.0.2 - 2017-11-11
+## 0.0.2 - 2018-07-08
+### Added
+- Updated commands
+### Removed
+- Permission requirements
+
+## 0.0.1 - 2017-11-11
 ### Added
 - README now contains installation instructions and command details
 - Initial (Alpha?) release
