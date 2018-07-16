@@ -1,0 +1,7 @@
+{
+  "DISCORD":      "(insert Discord bot account token and remove parenthesis)",
+  "PREFIX":       "!",
+  "SERVER":       "",
+  "TEXTCHANNEL":  "",
+  "LEADERROLE":   "leader" 
+}
