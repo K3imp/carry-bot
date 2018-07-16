@@ -1,7 +1,7 @@
 {
   "DISCORD":      "NDY4MTUxNjYxMjExNDE4NjM0.Di5XzA.FulJ8OFZ33yUSa_TK1sCDafE72A",
   "PREFIX":       "!",
-  "SERVER":       "",
-  "TEXTCHANNEL":  "",
+  "SERVER":       "dev",
+  "TEXTCHANNEL":  "bosses",
   "LEADERROLE":   "leader" 
 }
