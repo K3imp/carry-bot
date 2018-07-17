@@ -5,7 +5,7 @@ Need help organizing your boss runs? CarryBot might be able to help.
 - `!add` -  Adds [user] to the party. Must be a party leader to use this command.
 - `!create` - Create a new party as a leader. [bossName] must be a single word; additional arguments are treated as comments.
 - `!disband` - Disband the current party. Must be a party leader.
-- `help` - Displays all the available commands.
+- `!help` - Displays all the available commands.
 - `!kick` - Kicks a user from your party. Must be a party leader.
 - `!list` - Lists all current parties in the server.
 - `!ping`  - Ping/Pong commmand.
@@ -51,3 +51,5 @@ That's it, you're good to go! Run `npm start` and carrybot should come online.
 ### Added
 - README now contains installation instructions and command details
 - Initial (Alpha?) release
+
+### WIP
